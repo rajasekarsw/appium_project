@@ -85,7 +85,7 @@ public class Settingspak {
 		System.out.println(1/0);
 	}
 	
-	@Test(enabled=false)
+	@Test()
 	void scrollUp()
 	{
 		
